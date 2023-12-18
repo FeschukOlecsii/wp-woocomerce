@@ -1,0 +1,12 @@
+2023-12-09T10:10:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-partner\src\class-partner.php на строке 49
+
+2023-12-09T10:18:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php на строке 173
+
+2023-12-09T18:43:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php на строке 82
+
+2023-12-09T18:45:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\frontend.php на строке 14
+
+2023-12-09T18:45:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\admin\admin-notices.php на строке 14
+
+2023-12-09T18:46:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php на строке 10
+

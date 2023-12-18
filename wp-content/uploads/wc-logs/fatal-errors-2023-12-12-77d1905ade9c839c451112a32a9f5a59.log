@@ -1,0 +1,46 @@
+2023-12-12T12:11:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\mailpoet\lib\Automation\Engine\Integration\Filter.php на строке 5
+
+2023-12-12T12:11:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\lexer\lib\Doctrine\Common\Lexer\AbstractLexer.php на строке 4
+
+2023-12-12T12:11:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-includes\functions.php на строке 6805
+
+2023-12-12T12:11:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-includes\functions.php на строке 6805
+
+2023-12-12T12:14:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php на строке 82
+
+2023-12-12T12:16:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\API\Init.php на строке 11
+
+2023-12-12T12:16:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor\jetpack-autoloader\class-php-autoloader.php на строке 91
+
+2023-12-12T12:16:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\CategoryLookup.php на строке 8
+
+2023-12-12T12:16:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\CategoryLookup.php на строке 8
+
+2023-12-12T12:16:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\ReportExporter.php на строке 8
+
+2023-12-12T12:16:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Interactivity\store.php на строке 19
+
+2023-12-12T12:16:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\Coupon\CouponSyncer.php на строке 16
+
+2023-12-12T12:16:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\themes\blocksy\inc\css\selectors.php на строке 85
+
+2023-12-12T12:16:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\files\assets\manager.php на строке 6
+
+2023-12-12T12:16:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\safe-mode\module.php на строке 11
+
+2023-12-12T12:16:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\usage\module.php на строке 12
+
+2023-12-12T12:18:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\API\Site\Controllers\MerchantCenter\ShippingTimeBatchController.php на строке 11
+
+2023-12-12T18:44:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в D:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php на строке 534
+
+2023-12-12T21:06:24+00:00 CRITICAL Maximum execution time of 900 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php на строке 2226
+
+2023-12-12T21:12:04+00:00 CRITICAL Maximum execution time of 900 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php на строке 2225
+
+2023-12-12T21:30:06+00:00 CRITICAL Maximum execution time of 900 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php на строке 2358
+
+2023-12-12T21:50:09+00:00 CRITICAL Maximum execution time of 900 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php на строке 2671
+
+2023-12-12T22:10:16+00:00 CRITICAL Maximum execution time of 900 seconds exceeded в D:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php на строке 2671
+

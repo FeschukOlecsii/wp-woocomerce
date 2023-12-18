@@ -1,0 +1,961 @@
+# Translation of Plugins - HT Slider For Elementor - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - HT Slider For Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-13 06:41:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - HT Slider For Elementor - Stable (latest release)\n"
+
+#: include/admin/Class_Recommended_Plugins.php:247
+msgid "Activate"
+msgstr "Активировать"
+
+#: include/addons/elementor_widgets.php:553
+#: include/addons/htslider_addons.php:204
+#: include/addons/htslider_addons.php:753
+#: include/addons/htslider_addons.php:1310
+#: include/addons/htslider_addons.php:1370
+#: include/addons/htslider_addons.php:1661
+#: include/addons/htslider_addons.php:1755
+#: include/addons/htslider_post_addons.php:609
+#: include/addons/htslider_post_addons.php:633
+#: include/addons/htslider_post_addons.php:1069
+#: include/addons/htslider_post_addons.php:1099
+#: include/addons/htslider_post_addons.php:1269
+#: include/addons/htslider_post_addons.php:1319
+#: include/addons/htslider_post_addons.php:1572
+#: include/addons/htslider_post_addons.php:1632
+#: include/addons/htslider_post_addons.php:1925
+#: include/addons/htslider_post_addons.php:2019
+msgid "Background"
+msgstr "Фон"
+
+#: include/addons/elementor_widgets.php:431
+#: include/addons/elementor_widgets.php:486
+#: include/addons/elementor_widgets.php:596
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: include/addons/elementor_widgets.php:445
+#: include/addons/elementor_widgets.php:500
+#: include/addons/elementor_widgets.php:567
+#: include/addons/elementor_widgets.php:612
+#: include/addons/htslider_addons.php:1013
+#: include/addons/htslider_addons.php:1067
+#: include/addons/htslider_addons.php:1320
+#: include/addons/htslider_addons.php:1380
+#: include/addons/htslider_addons.php:1671
+#: include/addons/htslider_addons.php:1765
+#: include/addons/htslider_post_addons.php:754
+#: include/addons/htslider_post_addons.php:1279
+#: include/addons/htslider_post_addons.php:1329
+#: include/addons/htslider_post_addons.php:1582
+#: include/addons/htslider_post_addons.php:1642
+#: include/addons/htslider_post_addons.php:1935
+#: include/addons/htslider_post_addons.php:2029
+msgid "Border"
+msgstr "Рамка"
+
+#: include/addons/elementor_widgets.php:416
+#: include/addons/elementor_widgets.php:538
+#: include/addons/htslider_addons.php:738
+#: include/addons/htslider_addons.php:823
+#: include/addons/htslider_addons.php:865
+#: include/addons/htslider_addons.php:906
+#: include/addons/htslider_addons.php:964
+#: include/addons/htslider_addons.php:1043
+#: include/addons/htslider_addons.php:1055
+#: include/addons/htslider_addons.php:1296
+#: include/addons/htslider_addons.php:1356
+#: include/addons/htslider_post_addons.php:839
+#: include/addons/htslider_post_addons.php:926
+#: include/addons/htslider_post_addons.php:1023
+#: include/addons/htslider_post_addons.php:1086
+#: include/addons/htslider_post_addons.php:1122
+#: include/addons/htslider_post_addons.php:1223
+#: include/addons/htslider_post_addons.php:1306
+#: include/addons/htslider_post_addons.php:1558
+#: include/addons/htslider_post_addons.php:1618
+msgid "Color"
+msgstr "Цвет"
+
+#: include/admin/template-library.php:213
+msgid "Edit Template"
+msgstr "Изменить шаблон"
+
+#: include/admin/templates_list.php:89
+msgid "Import"
+msgstr "Импорт"
+
+#: include/admin/template-library.php:191
+msgid "New Template"
+msgstr "Новый шаблон"
+
+#: include/addons/elementor_widgets.php:193
+#: include/addons/elementor_widgets.php:205
+#: include/addons/htslider_addons.php:643
+#: include/addons/htslider_post_addons.php:498
+msgid "No"
+msgstr "Нет"
+
+#: include/custom-post-type.php:92
+msgid "No items"
+msgstr "Нет элементов"
+
+#: include/addons/elementor_widgets.php:378
+#: include/addons/htslider_addons.php:949
+#: include/addons/htslider_addons.php:1289
+#: include/addons/htslider_addons.php:1641
+#: include/addons/htslider_post_addons.php:1016
+#: include/addons/htslider_post_addons.php:1216
+#: include/addons/htslider_post_addons.php:1551
+#: include/addons/htslider_post_addons.php:1905
+msgid "Normal"
+msgstr "Обычный"
+
+#: include/addons/elementor_widgets.php:465
+#: include/addons/htslider_addons.php:988
+#: include/addons/htslider_addons.php:1240
+#: include/addons/htslider_addons.php:1612
+#: include/addons/htslider_post_addons.php:740
+#: include/addons/htslider_post_addons.php:872
+#: include/addons/htslider_post_addons.php:959
+#: include/addons/htslider_post_addons.php:1056
+#: include/addons/htslider_post_addons.php:1158
+#: include/addons/htslider_post_addons.php:1256
+#: include/addons/htslider_post_addons.php:1502
+#: include/addons/htslider_post_addons.php:1876
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: include/admin/Class_Recommended_Plugins.php:128
+#: include/admin/templates_list.php:92
+msgid "Preview"
+msgstr "Просмотреть"
+
+#: include/helpers_function.php:10 include/helpers_function.php:30
+msgid "Select"
+msgstr "Выбрать"
+
+#: include/addons/elementor_widgets.php:90
+#: include/addons/htslider_addons.php:327
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: include/custom-post-type.php:30
+msgid "Set featured image"
+msgstr "Задать изображение"
+
+#: include/class.htslider.php:179
+msgid "Settings"
+msgstr "Настройки"
+
+#: include/addons/elementor_widgets.php:264
+#: include/addons/htslider_addons.php:403
+#: include/addons/htslider_post_addons.php:257
+msgid "Tablet"
+msgstr "Планшет"
+
+#: include/addons/elementor_widgets.php:194
+#: include/addons/elementor_widgets.php:206
+#: include/addons/htslider_addons.php:644
+#: include/addons/htslider_post_addons.php:499
+msgid "Yes"
+msgstr "Да"
+
+#: include/addons/elementor_widgets.php:523
+#: include/addons/htslider_addons.php:1036
+#: include/addons/htslider_addons.php:1349
+#: include/addons/htslider_post_addons.php:1080
+#: include/addons/htslider_post_addons.php:1300
+#: include/addons/htslider_post_addons.php:1611
+msgid "Hover"
+msgstr "Наведение"
+
+#: include/addons/elementor_widgets.php:453
+#: include/addons/elementor_widgets.php:508
+#: include/addons/elementor_widgets.php:575
+#: include/addons/elementor_widgets.php:620
+#: include/addons/htslider_addons.php:1021
+#: include/addons/htslider_addons.php:1075
+#: include/addons/htslider_addons.php:1328
+#: include/addons/htslider_addons.php:1388
+#: include/addons/htslider_addons.php:1679
+#: include/addons/htslider_addons.php:1773
+#: include/addons/htslider_post_addons.php:761
+#: include/addons/htslider_post_addons.php:1287
+#: include/addons/htslider_post_addons.php:1337
+#: include/addons/htslider_post_addons.php:1590
+#: include/addons/htslider_post_addons.php:1650
+#: include/addons/htslider_post_addons.php:1943
+#: include/addons/htslider_post_addons.php:2037
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: include/addons/elementor_widgets.php:530
+msgid "Navigation"
+msgstr "Навигация"
+
+#: include/class.htslider.php:183
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: include/admin/Class_Recommended_Plugins.php:253
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: include/addons/elementor_widgets.php:478
+#: include/addons/elementor_widgets.php:588
+msgid "Navigation Dots"
+msgstr "Точки навигации"
+
+#: include/admin/templates_list.php:49
+msgid "Back to Library"
+msgstr "Вернуться в библиотеку"
+
+#: include/class.htslider.php:122
+msgid "Elementor"
+msgstr "Elementor"
+
+#: include/addons/elementor_widgets.php:113
+#: include/addons/htslider_post_addons.php:2516
+msgid "Order"
+msgstr "Упорядочение"
+
+#: include/addons/elementor_widgets.php:117
+#: include/addons/htslider_post_addons.php:2520
+msgid "Descending"
+msgstr "По убыванию"
+
+#: include/addons/elementor_widgets.php:118
+#: include/addons/htslider_post_addons.php:2521
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: include/custom-post-type.php:29
+msgid "Featured Image"
+msgstr "Изображение записи"
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: include/class.htslider.php:120 include/class.htslider.php:136
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" требует \"%2$s\" версию %3$s или выше."
+
+#. translators: %s: Number of installations.
+#: include/admin/Class_Recommended_Plugins.php:302
+msgid "%s Active Installations"
+msgstr "%s активных установок"
+
+#: include/class.htslider.php:99
+msgid "Activate Elementor"
+msgstr "Активировать Elementor"
+
+#: include/admin/Class_Recommended_Plugins.php:131
+#: include/admin/Class_Recommended_Plugins.php:258
+msgid "Activated"
+msgstr "Активировано"
+
+#: include/admin/Class_Recommended_Plugins.php:130
+msgid "Activating.."
+msgstr "Активация..."
+
+#: include/custom-post-type.php:82
+msgid "Add New Item"
+msgstr "Добавить новый элемент"
+
+#: include/custom-post-type.php:20 include/custom-post-type.php:21
+msgid "Add New Slider"
+msgstr "Добавить новый слайдер"
+
+#: include/custom-post-type.php:19
+msgid "All Sliders"
+msgstr "Все слайдеры"
+
+#: include/addons/elementor_widgets.php:240
+msgid "Autoplay animation speed"
+msgstr "Скорость анимации авто-воспроизведения"
+
+#: include/addons/elementor_widgets.php:227
+msgid "Autoplay speed"
+msgstr "Скорость авто-воспроизведения"
+
+#: include/custom-post-type.php:88
+msgid "Choose from the most used"
+msgstr "Выбрать из наиболее используемых"
+
+#: include/custom-post-type.php:23 include/custom-post-type.php:83
+msgid "Edit Item"
+msgstr "Изменить элемент"
+
+#: include/custom-post-type.php:37
+msgid "Filter items list"
+msgstr "Список элементов фильтра"
+
+#: include/custom-post-type.php:33
+msgid "Insert into item"
+msgstr "Вставить в элемент"
+
+#: include/class.htslider.php:106
+msgid "Install Elementor"
+msgstr "Установить Elementor"
+
+#: include/custom-post-type.php:17
+msgid "Item Archives"
+msgstr "Архивы элементов"
+
+#: include/custom-post-type.php:35 include/custom-post-type.php:93
+msgid "Items list"
+msgstr "Список элементов"
+
+#: include/custom-post-type.php:36 include/custom-post-type.php:94
+msgid "Items list navigation"
+msgstr "Навигация списка элементов"
+
+#: include/admin/Class_Recommended_Plugins.php:380
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr "Менее 10"
+
+#: include/addons/elementor_widgets.php:307
+#: include/addons/htslider_addons.php:458
+#: include/addons/htslider_post_addons.php:312
+msgid "Mobile Phone"
+msgstr "Мобильный телефон"
+
+#: include/admin/Class_Recommended_Plugins.php:297
+msgid "More Details"
+msgstr "Больше деталей"
+
+#: include/addons/elementor_widgets.php:393
+msgid "Navigation Arrow Size"
+msgstr "Размер стрелки навигации"
+
+#: include/custom-post-type.php:22
+msgid "New Item"
+msgstr "Новый элемент"
+
+#: include/custom-post-type.php:28
+msgid "Not found in Trash"
+msgstr "Не найден в корзине"
+
+#: include/admin/recommendation-plugins.php:268
+msgid "Others"
+msgstr "Другие"
+
+#: include/custom-post-type.php:79
+msgid "Parent Item"
+msgstr "Родительский элемент"
+
+#: include/custom-post-type.php:18 include/custom-post-type.php:80
+msgid "Parent Item:"
+msgstr "Родительский элемент:"
+
+#: include/addons/elementor_widgets.php:197
+#: include/addons/htslider_addons.php:647
+#: include/addons/htslider_post_addons.php:502
+msgid "Pause on Hover?"
+msgstr "Пауза при наведении курсора?"
+
+#: include/class.htslider.php:138
+msgid "PHP"
+msgstr "PHP"
+
+#: include/admin/Class_Recommended_Plugins.php:420
+msgid "Plugin Successfully Activated"
+msgstr "Плагин успешно активирован"
+
+#: include/admin/templates_list.php:96
+msgid "Pro"
+msgstr "Про"
+
+#: include/admin/Class_Recommended_Plugins.php:69
+msgid "Recommendations"
+msgstr "Рекомендации"
+
+#: include/admin/recommendation-plugins.php:31
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: include/custom-post-type.php:31
+msgid "Remove featured image"
+msgstr "Удалить изображение записи"
+
+#: include/custom-post-type.php:26
+msgid "Search Item"
+msgstr "Искать элемент"
+
+#: include/addons/elementor_widgets.php:76
+#: include/addons/htslider_addons.php:313
+msgid "Select Slider"
+msgstr "Выберите слайдер"
+
+#: include/custom-post-type.php:13
+msgctxt "Post Type General Name"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: include/custom-post-type.php:14
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: include/addons/elementor_widgets.php:46
+#: include/addons/htslider_addons.php:47 include/addons/htslider_addons.php:67
+#: include/addons/htslider_post_addons.php:193 include/custom-post-type.php:15
+#: include/custom-post-type.php:16 include/custom-post-type.php:41
+msgid "Slider"
+msgstr "Слайдер"
+
+#: include/addons/elementor_widgets.php:172
+#: include/addons/htslider_addons.php:514
+#: include/addons/htslider_post_addons.php:368
+msgid "Slider Arrow"
+msgstr "Стрелка слайдера"
+
+#: include/addons/elementor_widgets.php:216
+msgid "Slider auto play"
+msgstr "Авто-слайдер"
+
+#: include/addons/elementor_widgets.php:365
+msgid "Style One"
+msgstr "Первый стиль"
+
+#: include/addons/elementor_widgets.php:367
+msgid "Style Three"
+msgstr "Третий стиль"
+
+#: include/addons/elementor_widgets.php:366
+msgid "Style Two"
+msgstr "Второй стиль"
+
+#: include/custom-post-type.php:24 include/custom-post-type.php:84
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+#: include/custom-post-type.php:34
+msgid "Uploaded to this item"
+msgstr "Загружено в этот элемент"
+
+#: include/custom-post-type.php:32
+msgid "Use as featured image"
+msgstr "Использовать как изображение записи"
+
+#: include/custom-post-type.php:25 include/custom-post-type.php:85
+msgid "View Item"
+msgstr "Просмотр элемента"
+
+#: include/admin/recommendation-plugins.php:117
+msgid "You May Also Like"
+msgstr "Вам также может понравиться"
+
+#: include/admin/templates_list.php:34
+msgid " Templates"
+msgstr " Шаблоны"
+
+#. translators: %s: Number of millions.
+#: include/admin/Class_Recommended_Plugins.php:376
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "Более %s миллиона"
+msgstr[1] "Более %s миллионов"
+msgstr[2] "Более %s миллионов"
+
+#: include/admin/templates_list.php:32
+msgid "80 Templates are Free"
+msgstr "80 бесплатных шаблонов"
+
+#: include/addons/htslider_post_addons.php:2397
+#: include/addons/htslider_post_addons.php:2412 include/helpers_function.php:63
+msgid "Categories"
+msgstr "Рубрики"
+
+#: include/admin/recommendation-plugins.php:186
+msgid "HashBar Pro"
+msgstr "HashBar Pro"
+
+#: include/admin/Class_Recommended_Plugins.php:232
+msgid "HasTheme"
+msgstr "HasTheme"
+
+#: include/admin/Class_Recommended_Plugins.php:129
+msgid "Installing.."
+msgstr "Установка..."
+
+#: include/admin/templates_list.php:39
+msgid "Buy HTSlider Pro Version"
+msgstr "Купить версию HTSlider Pro"
+
+#: include/admin/Class_Recommended_Plugins.php:127
+#: include/admin/Class_Recommended_Plugins.php:235
+#: include/admin/Class_Recommended_Plugins.php:289
+#: include/admin/templates_list.php:85
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: include/admin/Class_Recommended_Plugins.php:275
+msgid "By "
+msgstr "От "
+
+#. Plugin Name of the plugin
+msgid "HT Slider For Elementor"
+msgstr "HT Slider For Elementor"
+
+#: include/admin/recommendation-plugins.php:222
+msgid "HT Slider Pro For Elementor"
+msgstr "HT Slider Pro For Elementor"
+
+#. Plugin URI of the plugin
+msgid "https://htplugins.com/"
+msgstr "https://htplugins.com/"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/htplugins/"
+msgstr "https://profiles.wordpress.org/htplugins/"
+
+#: include/custom-post-type.php:27
+msgid "Not found"
+msgstr "Не найдено"
+
+#: include/custom-post-type.php:91
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: include/admin/Class_Recommended_Plugins.php:400
+msgid "Plugin Not Found"
+msgstr "Плагин не найден"
+
+#: include/addons/elementor_widgets.php:136
+#: include/addons/htslider_post_addons.php:400
+msgid "Previous icon"
+msgstr "Значок Назад"
+
+#: include/custom-post-type.php:90
+msgid "Search Items"
+msgstr "Поиск элементов"
+
+#: include/admin/recommendation-plugins.php:123
+msgid "WooLentor Pro"
+msgstr "WooLentor Pro"
+
+#: include/admin/recommendation-plugins.php:150
+msgid "Whols Pro"
+msgstr "Whols Pro"
+
+#: include/custom-post-type.php:87
+msgid "Add or remove items"
+msgstr "Добавить или удалить элементы"
+
+#: include/custom-post-type.php:78
+msgid "All Item Categories"
+msgstr "Все категории элементов"
+
+#: include/admin/recommendation-plugins.php:144
+msgid "Are you getting frustrated with WooCommerce’s current way of presenting the variants for your products? Well, say goodbye to dropdowns and start showing the product variations in a whole new light with Swatchly."
+msgstr "Вы разочарованы текущим способом представления вариантов ваших продуктов в WooCommerce? Что ж, попрощайтесь с выпадающими списками и начните показывать варианты продуктов в совершенно новом свете с помощью Swatchly."
+
+#: include/admin/recommendation-plugins.php:328
+msgid "Coupon Zen"
+msgstr "№ купона"
+
+#: include/admin/templates_list.php:14
+msgid "Create a new slider from this template"
+msgstr "Создайте новый слайдер из этого шаблона"
+
+#: include/admin/recommendation-plugins.php:316
+msgid "Docus – YouTube Video Playlist"
+msgstr "Docus – плейлист видео YouTube"
+
+#: include/admin/recommendation-plugins.php:258
+msgid "Docus Pro"
+msgstr "Docus Pro"
+
+#: include/addons/elementor_widgets.php:209
+msgid "Enable mouse dragging"
+msgstr "Включить перетаскивание мышью"
+
+#: include/admin/templates_list.php:15
+msgctxt "placeholder"
+msgid "Enter a Slider Title"
+msgstr "Введите заголовок слайдера"
+
+#: include/admin/recommendation-plugins.php:62
+msgid "Extensions For CF7"
+msgstr "Расширения для CF7"
+
+#: include/admin/recommendation-plugins.php:180
+msgid "Contact Form7 Extensions plugin is a fantastic WordPress plugin that enriches the functionalities of Contact Form 7.This all-in-one WordPress plugin will help you turn any contact page into a well-organized, engaging tool for communicating with your website visitors by providing tons of advanced features like drag and drop file upload, repeater field, trigger error for already submitted forms, popup form response, country flags and dial codes with a telephone input field and acceptance field, etc. in addition to its basic features."
+msgstr "Плагин Contact Form7 Extensions — это фантастический плагин WordPress, который расширяет функциональные возможности Contact Form 7. Этот универсальный плагин WordPress поможет вам превратить любую контактную страницу в хорошо организованный, привлекательный инструмент для общения с посетителями вашего сайта, предоставляя множество расширенных функций, таких как загрузка файлов с помощью перетаскивания, поле повторителя, ошибка срабатывания для уже отправленных форм, ответ всплывающей формы, флаги страны и коды набора с полем ввода телефона и полем подтверждения и т. д. в дополнение к его основным функциям."
+
+#: include/admin/recommendation-plugins.php:261
+msgid "Embedding a YouTube playlist into your website plays a vital role to curate your content into several categories and make your web content more engaging and popular by keeping the visitors on your website for a longer period."
+msgstr "Встраивание плейлиста YouTube в ваш веб-сайт играет жизненно важную роль для распределения вашего контента по нескольким категориям и делает ваш веб-контент более привлекательным и популярным, удерживая посетителей на вашем веб-сайте в течение более длительного периода времени."
+
+#: include/admin/recommendation-plugins.php:177
+msgid "Extensions For CF7 Pro"
+msgstr "Расширения для CF7 Pro"
+
+#: include/admin/recommendation-plugins.php:292
+msgid "Faster YouTube Embed"
+msgstr "Быстрая вставка на YouTube"
+
+#: include/admin/templates_list.php:63
+msgid "Import to Library"
+msgstr "Импортировать в библиотеку"
+
+#: include/admin/templates_list.php:64
+msgid "Import to Slider"
+msgstr "Импортировать в слайдер"
+
+#: include/addons/elementor_widgets.php:67
+#: include/addons/htslider_addons.php:304
+msgid "Show By ID"
+msgstr "Показать по ID"
+
+#: include/addons/elementor_widgets.php:68
+#: include/addons/htslider_addons.php:305
+msgid "Show By Category"
+msgstr "Показать по категориям"
+
+#: include/admin/recommendation-plugins.php:168
+msgid "Multi Currency Pro for WooCommerce"
+msgstr "Multi Currency Pro for WooCommerce"
+
+#: include/admin/recommendation-plugins.php:171
+msgid "Multi-Currency Pro for WooCommerce is a prominent currency switcher plugin for WooCommerce. This plugin allows your website or online store visitors to switch to their preferred currency or their country’s currency."
+msgstr "Multi-Currency Pro for WooCommerce — известный плагин для переключения валют для WooCommerce. Этот плагин позволяет посетителям вашего веб-сайта или интернет-магазина переключаться на предпочтительную валюту или валюту своей страны."
+
+#: include/admin/recommendation-plugins.php:195
+msgid "WP Plugin Manager Pro"
+msgstr "WP Plugin Manager Pro"
+
+#: include/admin/recommendation-plugins.php:198
+msgid "WP Plugin Manager Pro is a specialized WordPress Plugin that helps you to deactivate unnecessary WordPress Plugins page wise and boosts the speed of your WordPress site to improve the overall site performance."
+msgstr "WP Plugin Manager Pro — это специализированный плагин WordPress, который помогает вам деактивировать ненужные плагины WordPress на странице и повышает скорость вашего сайта WordPress, чтобы улучшить общую производительность сайта."
+
+#: include/admin/recommendation-plugins.php:204
+msgid "HT Script Pro"
+msgstr "HT Script Pro"
+
+#: include/admin/recommendation-plugins.php:213
+msgid "HT Menu Pro"
+msgstr "HT Menu Pro"
+
+#: include/admin/recommendation-plugins.php:216
+msgid "WordPress Mega Menu Builder for Elementor"
+msgstr "Конструктор мегаменю WordPress для Elementor"
+
+#: include/admin/template-library.php:51 include/admin/template-library.php:52
+msgid "Templates Library"
+msgstr "Библиотека шаблонов"
+
+#: include/admin/template-library.php:157
+msgid "Templates in this package"
+msgstr "Шаблоны в этом пакете"
+
+#: include/admin/template-library.php:177
+msgid "You are not permitted to import the template."
+msgstr "Вам не разрешено импортировать шаблон."
+
+#: include/admin/recommendation-plugins.php:189
+msgid "HashBar is a WordPress Notification / Alert / Offer Bar plugin which allows you to create unlimited notification bars to notify your customers. This plugin has option to show email subscription form (sometimes it increases up to 500% email subscriber), Offer text and buttons about your promotions. This plugin has the options to add unlimited background colors and images to make your notification bar more professional."
+msgstr "HashBar — это плагин WordPress Notification/Alert/Offer Bar, который позволяет создавать неограниченное количество панелей уведомлений для уведомления ваших клиентов. Этот плагин имеет возможность отображать форму подписки по электронной почте (иногда она увеличивается до 500% подписчиков электронной почты), текст предложения и кнопки о ваших рекламных акциях. Этот плагин позволяет добавлять неограниченное количество цветов фона и изображений, чтобы сделать вашу панель уведомлений более профессиональной."
+
+#: include/admin/recommendation-plugins.php:207
+msgid "Insert Headers and Footers Code allows you to insert Google Analytics, Facebook Pixel, custom CSS, custom HTML, JavaScript code to your website header and footer without modifying your theme code.This plugin has the option to add any custom code to your theme in one place, no need to edit the theme code. It will save your time and remove the hassle for the theme update."
+msgstr "Insert Headers and Footers Code позволяет вам вставить Google Analytics, Facebook Pixel, пользовательский CSS, пользовательский HTML, JavaScript код в верхний и нижний колонтитулы вашего сайта без изменения кода вашей темы.Этот плагин имеет возможность добавить любой пользовательский код в вашу тему в одном месте, без необходимости редактировать код темы. Это сэкономит ваше время и избавит от необходимости обновлять тему."
+
+#: include/admin/templates_list.php:62
+msgid "Successfully "
+msgstr "Успешно "
+
+#: include/custom-post-type.php:86
+msgid "Separate items with commas"
+msgstr "Разделяйте элементы запятой"
+
+#: include/custom-post-type.php:89
+msgid "Popular Items"
+msgstr "Популярные элементы"
+
+#: include/addons/elementor_widgets.php:13
+msgid "HT: Slider"
+msgstr "HT: Слайдер"
+
+#: include/addons/elementor_widgets.php:63
+#: include/addons/htslider_addons.php:300
+msgid "Slider Show By"
+msgstr "Слайдер Показать по"
+
+#: include/addons/elementor_widgets.php:104
+msgid "Slider Limit"
+msgstr "Предел слайдера"
+
+#: include/addons/elementor_widgets.php:129
+#: include/addons/htslider_addons.php:355
+#: include/addons/htslider_post_addons.php:208
+msgid "Slider Option"
+msgstr "Вариант слайдера"
+
+#: include/addons/elementor_widgets.php:182
+#: include/addons/htslider_post_addons.php:432
+msgid "Slider dots"
+msgstr "Слайдерные точки"
+
+#: include/addons/elementor_widgets.php:252
+#: include/addons/elementor_widgets.php:285
+#: include/addons/elementor_widgets.php:328
+msgid "Slider item to scroll"
+msgstr "Элемент слайдера для прокрутки"
+
+#: include/admin/recommendation-plugins.php:231
+msgid "Google Place Review"
+msgstr "Google Place Review"
+
+#: include/admin/recommendation-plugins.php:234
+msgid "If you are searching for a modern and excellent google places review WordPress plugin to showcase reviews from Google Maps and strengthen trust between you and your site visitors, look no further than HT Google Place Review"
+msgstr "Если вы ищете современный и отличный плагин WordPress для обзора мест в Google, чтобы демонстрировать отзывы с Карт Google и укреплять доверие между вами и посетителями вашего сайта, не ищите ничего, кроме HT Google Place Review"
+
+#: include/admin/recommendation-plugins.php:240
+msgid "Was This Helpful?"
+msgstr "Было ли это полезно?"
+
+#: include/admin/recommendation-plugins.php:243
+msgid "Was this helpful? is a WordPress plugin that allows you to take visitors' feedback on your post/pages or any article. A visitor can share his feedback by like/dislike/yes/no"
+msgstr "Было ли это полезно? — это плагин WordPress, который позволяет вам получать отзывы посетителей о вашем посте/страницах или любой статье. Посетитель может поделиться своим отзывом, поставив лайк/дизлайк/да/нет"
+
+#: include/admin/recommendation-plugins.php:249
+msgid "HT Click To Call"
+msgstr "HT Нажмите для вызова"
+
+#. Author of the plugin
+msgid "HT Plugins"
+msgstr "HT Плагины"
+
+#. Description of the plugin
+msgid "The Slider is a elementor addons for WordPress."
+msgstr "Slider - это аддон elementor для WordPress."
+
+#: include/admin/recommendation-plugins.php:252
+msgid "HT – Click to Call is a lightweight WordPress plugin that allows you to add a floating click to call button on your website. It will offer your website visitors an opportunity to call your business immediately at the right moment, especially when they are interested in your products or services and seeking more information."
+msgstr "HT — Click to Call — это легкий плагин WordPress, который позволяет вам добавить плавающую кнопку вызова на ваш сайт. Это даст посетителям вашего веб-сайта возможность немедленно позвонить в ваш бизнес в нужный момент, особенно когда они заинтересованы в ваших продуктах или услугах и ищут дополнительную информацию."
+
+#: include/admin/recommendation-plugins.php:68
+msgid "HT WPForms"
+msgstr "HT WPForms"
+
+#: include/admin/recommendation-plugins.php:74
+msgid "HT Menu"
+msgstr "HT Меню"
+
+#: include/admin/recommendation-plugins.php:80
+msgid "HT Script"
+msgstr "HT Скрипт"
+
+#: include/admin/recommendation-plugins.php:86
+msgid "WP Plugin Manager"
+msgstr "WP Plugin Manager"
+
+#: include/admin/recommendation-plugins.php:92
+msgid "WC Builder"
+msgstr "WC Builder"
+
+#: include/admin/recommendation-plugins.php:110
+msgid "Multi Currency"
+msgstr "Мульти валюта"
+
+#: include/admin/recommendation-plugins.php:132
+msgid "HT Mega Pro"
+msgstr "HT Mega Pro"
+
+#: include/admin/recommendation-plugins.php:141
+msgid "Product Variation Swatches"
+msgstr "Образцы вариаций товара"
+
+#: include/admin/recommendation-plugins.php:153
+msgid "Whols is an outstanding WordPress plugin for WooCommerce that allows store owners to set wholesale prices for the products of their online stores. This plugin enables you to show special wholesale prices to the wholesaler. Users can easily request to become a wholesale customer by filling out a simple online registration form. Once the registration is complete, the owner of the store will be able to review the request and approve the request either manually or automatically."
+msgstr "Whols — выдающийся плагин WordPress для WooCommerce, который позволяет владельцам магазинов устанавливать оптовые цены на товары своих интернет-магазинов. Этот плагин позволяет показывать оптовику специальные оптовые цены. Пользователи могут легко запросить статус оптового клиента, заполнив простую онлайн-форму регистрации. После завершения регистрации владелец магазина сможет просмотреть запрос и утвердить его либо вручную, либо автоматически."
+
+#: include/admin/recommendation-plugins.php:159
+msgid "JustTables Pro"
+msgstr "JustTables Pro"
+
+#: include/admin/recommendation-plugins.php:98
+msgid "Whols"
+msgstr "Whols"
+
+#: include/admin/recommendation-plugins.php:104
+msgid "JustTables"
+msgstr "JustTables"
+
+#: include/admin/recommendation-plugins.php:38
+msgid "WooLentor"
+msgstr "WooLentor"
+
+#: include/admin/recommendation-plugins.php:44
+msgid "HT Mega"
+msgstr "HT Mega"
+
+#: include/admin/recommendation-plugins.php:50
+msgid "HashBar"
+msgstr "HashBar"
+
+#: include/admin/recommendation-plugins.php:56
+msgid "HT Contact Form 7"
+msgstr "HT Contact Form 7"
+
+#: include/helpers_function.php:57
+msgid "HTSlider Slider"
+msgstr "HTSlider Slider"
+
+#: include/admin/recommendation-plugins.php:310
+msgid "QuickSwish"
+msgstr "QuickSwish"
+
+#: include/admin/recommendation-plugins.php:340
+msgid "HT Social Share"
+msgstr "HT Социальный обмен"
+
+#: include/admin/recommendation-plugins.php:334
+msgid "Sirve – Simple Directory Listing"
+msgstr "Sirve - простой листинг каталога"
+
+#: include/admin/templates_list.php:27
+msgid "HT Slider Template Library"
+msgstr "Библиотека шаблонов слайдеров HT"
+
+#: include/class.htslider.php:98
+msgid "%1$sHTSlider Addons for Elementor%2$s requires %1$s\"Elementor\"%2$s plugin to be active. Please activate Elementor to continue."
+msgstr "%1$sHTSlider Addons for Elementor%2$s требует, чтобы плагин %1$s\"Elementor\"%2$s был активен. Пожалуйста, активируйте Elementor, чтобы продолжить."
+
+#: include/class.htslider.php:105
+msgid "%1$sHTSlider Addons for Elementor%2$s requires %1$s\"Elementor\"%2$s plugin to be installed and activated. Please install Elementor to continue."
+msgstr "%1$sHTSlider Addons for Elementor%2$s требует установки и активации плагина %1$s\"Elementor\"%2$s. Пожалуйста, установите Elementor, чтобы продолжить."
+
+#: include/admin/recommendation-plugins.php:162
+msgid "JustTables is an incredible WordPress plugin that lets you showcase all your WooCommerce products in a sortable and filterable table view. It allows your customers to easily navigate through different attributes of the products and compare them on a single page. This plugin will be of great help if you are looking for an easy solution that increases the chances of landing a sale on your online store."
+msgstr "JustTables — это невероятный плагин WordPress, который позволяет вам демонстрировать все ваши продукты WooCommerce в табличном виде с возможностью сортировки и фильтрации. Это позволяет вашим клиентам легко перемещаться по различным атрибутам продуктов и сравнивать их на одной странице. Этот плагин будет очень полезен, если вы ищете простое решение, которое увеличит шансы на продажу в вашем интернет-магазине."
+
+#: include/admin/recommendation-plugins.php:225
+msgid "HT Slider Pro is a plugin to create a slider for WordPress websites easily using the Elementor page builder. 80+ prebuild slides/templates are included in this plugin. There is the option to create a post slider, WooCommerce product slider, Video slider, image slider, etc. Fullscreen, full width and box layout option are included."
+msgstr "HT Slider Pro — это плагин для простого создания слайдера для веб-сайтов WordPress с помощью компоновщика страниц Elementor. В этот плагин включено более 80 готовых слайдов/шаблонов. Существует возможность создать слайдер сообщений, слайдер продуктов WooCommerce, слайдер видео, слайдер изображений и т. Д. Включены полноэкранный режим, полная ширина и вариант макета коробки."
+
+#: include/class.htslider.php:121
+msgid "HTSlider Addons for Elementor"
+msgstr "HTSlider Addons for Elementor"
+
+#: include/class.htslider.php:137
+msgid "HTSlider Addons"
+msgstr "HTSlider Addons"
+
+#: include/addons/htslider_addons.php:59 include/class.htslider.php:74
+#: include/class.htslider.php:152
+msgid "HT Slider"
+msgstr "HT Слайдер"
+
+#: include/custom-post-type.php:75
+msgctxt "Taxonomy General Name"
+msgid "Slider Categories"
+msgstr "Категории слайдера"
+
+#: include/custom-post-type.php:76
+msgctxt "Taxonomy Singular Name"
+msgid "Slider Category"
+msgstr "Категория слайдера"
+
+#: include/custom-post-type.php:77
+msgid "Slider Category"
+msgstr "Категория слайдера"
+
+#: include/custom-post-type.php:81
+msgid "New Item Category"
+msgstr "Новая категория предметов"
+
+#: include/addons/elementor_widgets.php:148
+#: include/addons/htslider_post_addons.php:416
+msgid "Next icon"
+msgstr "Значок Далее"
+
+#: include/addons/elementor_widgets.php:340
+#: include/addons/htslider_addons.php:500
+#: include/addons/htslider_post_addons.php:354
+msgid "Mobile Resolution"
+msgstr "Разрешение для мобильных устройств"
+
+#: include/addons/elementor_widgets.php:160
+#: include/addons/elementor_widgets.php:273
+#: include/addons/elementor_widgets.php:316
+#: include/addons/htslider_addons.php:240
+#: include/addons/htslider_addons.php:415
+#: include/addons/htslider_addons.php:470
+#: include/addons/htslider_post_addons.php:269
+#: include/addons/htslider_post_addons.php:324
+msgid "Slider Items"
+msgstr "Элементы слайдера"
+
+#: include/admin/recommendation-plugins.php:274
+msgid "HT Easy GA4 ( Google Analytics 4 )"
+msgstr "HT Easy GA4 ( Google Analytics 4 )"
+
+#: include/admin/recommendation-plugins.php:280
+msgid "Really Simple Google Tag Manager"
+msgstr "Действительно простой Google Tag Manager"
+
+#: include/admin/recommendation-plugins.php:286
+msgid "HT Feed"
+msgstr "HT Feed"
+
+#: include/admin/recommendation-plugins.php:298
+msgid "WC Sales Notification"
+msgstr "Уведомление о продаже WC"
+
+#: include/addons/elementor_widgets.php:297
+#: include/addons/htslider_addons.php:445
+#: include/addons/htslider_post_addons.php:299
+msgid "Tablet Resolution"
+msgstr "Разрешение планшета"
+
+#: include/addons/elementor_widgets.php:298
+#: include/addons/htslider_addons.php:446
+#: include/addons/htslider_post_addons.php:300
+msgid "The resolution to tablet."
+msgstr "Разрешение для планшета."
+
+#: include/addons/elementor_widgets.php:341
+#: include/addons/htslider_addons.php:501
+#: include/addons/htslider_post_addons.php:355
+msgid "The resolution to mobile."
+msgstr "Разрешение для мобильного."
+
+#: include/addons/elementor_widgets.php:353
+msgid "Slider Controller Style"
+msgstr "Стиль контроллера слайдера"
+
+#: include/addons/elementor_widgets.php:361
+msgid "Slider Navigation Style"
+msgstr "Стиль навигации слайдера"
+
+#: include/addons/elementor_widgets.php:385
+msgid "Navigation Arrow"
+msgstr "Стрелки навигации"
+
+#: include/admin/recommendation-plugins.php:135
+msgid "HTMega is an absolute addon for elementor that includes 80+ elements & 360 Blocks with unlimited variations. HT Mega brings limitless possibilities. Embellish your site with the elements of HT Mega."
+msgstr "HTMega - это абсолютный аддон для elementor, который включает 80+ элементов и 360 блоков с неограниченными вариациями. HT Mega открывает безграничные возможности. Украсьте свой сайт с помощью элементов HT Mega."
+
+#: include/admin/recommendation-plugins.php:126
+msgid "WooLentor is one of the most popular WooCommerce Elementor Addons on WordPress.org. It has been downloaded more than 672,148 times and 60,000 stores are using WooLentor plugin. Why not you?"
+msgstr "WooLentor является одним из самых популярных WooCommerce Elementor Addons на WordPress.org. Он был загружен более 672,148 раз и 60,000 магазинов используют плагин WooLentor. Почему не вы?"
+
+#: include/admin/recommendation-plugins.php:304
+msgid "Preview Link Generator"
+msgstr "Генератор ссылок предпросмотра"
+
+#: include/admin/recommendation-plugins.php:322
+msgid "DataCaptia"
+msgstr "DataCaptia"
